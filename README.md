@@ -6,5 +6,6 @@ El presente laboratorio se desorrollo en python.
 ```
     import random
     import matplotlib.pyplot
-    
+    pip install pandas
+    pip install numpy
 ```
