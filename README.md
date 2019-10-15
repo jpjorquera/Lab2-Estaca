@@ -7,4 +7,6 @@ El presente laboratorio se desorrollo en python 3.
     pip install matplotlib
     pip install pandas
     pip install numpy
+    pip install networkx
+    pip install random
 ```
